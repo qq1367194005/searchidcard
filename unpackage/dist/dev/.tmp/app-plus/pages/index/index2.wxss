@@ -1,0 +1,16 @@
+
+.cu-form-group .title {
+	min-width: calc(4em + 15px);
+}
+.show{
+	display:block!important;
+	border-bottom: 1px solid #eee;
+	background: #f2f2f2;
+}
+.cu-form-group+.cu-form-group{
+	border: 0px solid;
+}
+.indexes {
+	position: relative;
+}
+

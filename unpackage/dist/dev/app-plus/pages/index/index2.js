@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"cu-form-group .",[1],"title { min-width: calc(4em + 15px); }\n.",[1],"show{ display:block!important; border-bottom: 1px solid #eee; background: #f2f2f2; }\n.",[1],"cu-form-group+.",[1],"cu-form-group{ border: 0px solid; }\n.",[1],"indexes { position: relative; }\n",])();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index2.wxml') } }));
